@@ -1,0 +1,6 @@
+{
+  "name": "B2B Enterprise ERP & Procurement Platform",
+  "description": "An interactive enterprise ERP, procurement, and fleet logistics dashboard with an integrated South African VAT (15%) compliant billing ledger and invoice generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
